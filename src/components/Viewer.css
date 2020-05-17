@@ -1,0 +1,22 @@
+.catalog-view {}
+
+.catalog-image {
+  display: inline-block;
+  max-height: 400px;
+  max-width: 400px;
+  vertical-align: top;
+  position: inherit;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  top: 0;
+  margin: auto;
+}
+
+iframe {
+  border: none;
+}
+
+.black-background {
+  background: #000000;
+}
